@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "816956189688",
+    "project_id": "food-app-with-admin-pane-78863",
+    "storage_bucket": "food-app-with-admin-pane-78863.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816956189688:android:57e64fb9b798ac4dccc40d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_projects"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816956189688-bov8gulpla1j2lu5f9mjko50dqhd4hnt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_projects",
+            "certificate_hash": "aa381078c981953c4044edc9ab5bb97dde0ddcec"
+          }
+        },
+        {
+          "client_id": "816956189688-s1sacbgb47euuvnpdf58s7e1gd681bri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6EaBIWrW5VxE1lgKWG2VbdTgJWc35nOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816956189688-s1sacbgb47euuvnpdf58s7e1gd681bri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
